@@ -1,3 +1,4 @@
+package br.com.crud.teste;
 import java.util.Date;
 
 import br.com.crud.dao.ContatoDAO;
