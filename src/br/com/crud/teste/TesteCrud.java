@@ -12,7 +12,7 @@ public class TesteCrud {
 		// ------------ Cria um contato e salva no banco
 		Contato contato = new Contato();
 		contato.setNome("Izadora");
-		contato.setIdade(25);
+		contato.setIdade(2);
 		contato.setDataCadastro(new Date());
 		
 		contatoDAO.save(contato);
